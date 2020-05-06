@@ -11,7 +11,7 @@ Mission
 
 - Opensource all of my assets and show how "easy" it is to build a custom case in the hopes to inspire more who are interested in the challenge
 - Attain a specific aesthetic drawing inspiration from countless custom keyboard case designs from the community, but none of which hit the mark for me
-- Build on the opensource `Arisu PCB`_ layout which I find to be close to perfect and build a case that can do it justice. Once I saw the `Arisu PCB`_ layout I knew I needed to do.
+- Build on the opensource `Arisu PCB`_ layout which I find to be close to perfect and build a case that can do it justice. Once I saw the `Arisu PCB`_ layout I knew what I needed to do.
 - Build the model in the OnShape CAD platform which is completely free for non-commercial projects making this even more accessible to others
 - If you order all of the parts at the same time, you can have a fully functioning high-quality custom keyboard in less than a month. No more waiting for a Group Buy and not getting the custom color you want.
 - With my prototype I aimed to build a quiet keyboard that still has the best mechanical feel while being silent enough to not be invasive to others yet still a pleasing sound.
