@@ -19,7 +19,7 @@ Mission
 
 TL;DR
 -----
- 
+
 - | **Cut straight to chase and tell me where the CAD models are!**
   | The models were built using the completely free OnShape CAD platform using the Public plan and available here:
   | `JP01 - CNC Unibody Case - Arisu Keyboard V1.1`_
@@ -65,13 +65,13 @@ Specifications
 --------------
 
 - | **Unibody case**
-  | No ugly seam to look at. Minimal fillet and small radii for a specific aesthetic. Simpler design to limit the number of individual parts to get CNC milled. 
+  | No ugly seam to look at. Minimal fillet and small radii for a specific aesthetic. Simpler design to limit the number of individual parts to get CNC milled.
 
   - 6061-T6 Aluminum
   - Dead blasted with finer #150 grit
   - Anodized matte finish
   - Color: RAL 7024 (Graphite Gray)
-  - No special masking but instructions for not anodizing threaded holes on drawings 
+  - No special masking but instructions for not anodizing threaded holes on drawings
 
 - | **Dimensions**
   | 359mm wide, 142mm deep, 31.9 mm high on back, 22mm high on front
@@ -85,7 +85,7 @@ Specifications
   - Smoothed surface**
   - Anodized glossy finish
   - Color: RAL 7001 (Silver Gray)
-  - No special masking but instructions for not anodizing threaded holes on drawings 
+  - No special masking but instructions for not anodizing threaded holes on drawings
   - 4 through bolts to mate plate to case with for M2.5x0.45 countersunk screws
 
 - **Switch plate**
@@ -99,6 +99,14 @@ Specifications
   - 7mm (height from top of switch plate to top of the case)
   - Allows for use of 0.5mm silicone gasket that will make deck-height the ideal 7.5mm to submerge standard keycaps and create a nice aesthetic
   - Easy access to mounting screws to easily change out switch plates
+
+- | **Gaskets** (Optional)
+  | These are optional but I designed them to help with acoustics with the priority on silencing. I'm still experimenting with the multiple gaskets, switch plate metals and switch+keycap combinations.
+
+  - 0.5mm Switch plate gasket between case top and switch plate top. This will recess the switch plate down to hit the ideal 7.5mm depth.
+  - 2mm or 3mm EVA Foam or 0.5mm silicone PCB gasket to place between the PCB and switch plate to help dampen sound
+  - 2mm EVA foam to fill the case cavity between the top of the base plate and bottom of the PCB
+  - 1.5mm silicone gasket to seal entire inside surface of bottom plate to reduce reverberation inside the case. This helps the base plate protrude to create a better aesthetic at the expensve of making the whole case 1.5mm taller
 
 
 Risks
@@ -170,9 +178,9 @@ TODO
 - Wrist rest! I have a stacked acrylic prototype that I'm already using and love. I have a design for laser-cut solid maple with a leather top to fit perfectly with the case design. I might consider a solid polycarbonate version in the future similar to many other designs I've seen in the community and update this project appropriately
 - CNC simplification and cost cutting
 
- - Reduce reliance on microtooling such as larger fillets
- - Larger radii of inner cutouts in the case - they're likely less than the standard 1/4 diameter of main cutting tool
- - More consistent fillets and radii to minimize different bits or bit changes
+  - Reduce reliance on microtooling such as larger fillets
+  - Larger radii of inner cutouts in the case - they're likely less than the standard 1/4 diameter of main cutting tool
+  - More consistent fillets and radii to minimize different bits or bit changes
 
 - Add more through bolts to the base plate for an even more secure design. The 4 bolt pattern is still more than enough
 - Consider raising the deck height of the top of the case from 7mm to 7.5 to account for proper clearance of standard keycaps. The 7mm design was originally built to incorporate a 0.5mm silicone gasket to help dampen sound, but this might not be desirable for some.
@@ -185,7 +193,7 @@ TODO
 Credits
 -------
 
-This case was inspired by FateNozomi's `Arisu PCB`_ and `Arisu Case` which was inspired by Lyn's EM7 and the fabled TGR Alice. This is referred to as the "open source Alice with arrows" and now with a solid unibody case. 
+This case was inspired by FateNozomi's `Arisu PCB`_ and `Arisu Case` which was inspired by Lyn's EM7 and the fabled TGR Alice. This is referred to as the "open source Alice with arrows" and now with a solid unibody case.
 
 .. _Arisu PCB: https://github.com/FateNozomi/arisu-pcb
 .. _Arisu PCB v1.1: https://github.com/FateNozomi/arisu-pcb/releases/tag/v1.1
