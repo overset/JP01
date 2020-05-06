@@ -9,7 +9,7 @@ This repository all assets needed to manufacture a custom high-quality CNC mille
 Mission
 -------
 
-- Opensource all of my assets and show how "easy" it is to build a custom case in the hopes to inspire more who an interested in the challenge
+- Opensource all of my assets and show how "easy" it is to build a custom case in the hopes to inspire more who are interested in the challenge
 - Attain a specific aesthetic drawing inspiration from countless custom keyboard case designs from the community, but none of which hit the mark for me
 - Build on the opensource `Arisu PCB`_ layout which I find to be close to perfect and build a case that can do it justice. Once I saw the `Arisu PCB`_ layout I knew I needed to do.
 - Build the model in the OnShape CAD platform which is completely free for non-commercial projects making this even more accessible to others
