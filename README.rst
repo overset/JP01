@@ -39,9 +39,9 @@ TOC
 But Why?
 --------
 
-There are several prototype cases for the Arisu PCB in the work by some very talented individuals, but the challenge of building one from scratch to meet my design aesthetic was all too enticing.
+There are several prototype cases for the Arisu PCB in the works by some very talented individuals, but the challenge of building one from scratch to meet my design aesthetic was all too enticing.
 
-What I'm looking for in a keyboard why I think the Arisu layout is a worthwhile investment:
+What I'm looking for in a keyboard and why I think the Arisu layout is a worthwhile investment:
 
 - QMK
 - ANSI layout
