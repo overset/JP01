@@ -24,7 +24,7 @@ TL;DR
   | The models were built using the completely free OnShape CAD platform using the Public plan and available here:
   | `JP01 - CNC Unibody Case - Arisu Keyboard V1.1`_
   | ``TODO: Add assets for manufacturing in releases``
-- **I want to buy this right now, how do I?**
+- | **I want to buy this right now, how do I?**
 
   - First understand the `Risks`_
   - Then jump to `I'm ready, I know the risks, How did I buy this right now?`_
@@ -139,6 +139,11 @@ I'm ready, I know the risks, How did I buy this right now?
   - First understand the `Risks`_
   - find vendors
   - example ordering flow with selected vendors
+
+Show me the build!
+------------------
+
+``TODO``
 
 I want to make changes to the case!
 -----------------------------------
