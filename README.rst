@@ -2,7 +2,9 @@
 JP01 - Arisu Unibody Keyboard Case
 ==================================
 
-``[add hero pictures]``
+.. image:: https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/cases.jpg
+
+``[TODO: add hero pictures]``
 
 This repository all assets needed to manufacture a custom high-quality CNC milled unibody keyboard case for the open source `Arisu PCB`_. I'm very pleased how the first prototypes came out and I'm documenting the entire process here.
 
