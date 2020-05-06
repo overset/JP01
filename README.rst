@@ -23,6 +23,7 @@ TL;DR
 - | **Cut straight to chase and tell me where the CAD models are!**
   | The models were built using the completely free OnShape CAD platform using the Public plan and available here:
   | `JP01 - CNC Unibody Case - Arisu Keyboard V1.1`_
+  | ``TODO: Add assets for manufacturing in releases``
 - **I want to buy this right now, how do I?**
 
   - First understand the `Risks`_
