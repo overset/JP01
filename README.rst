@@ -73,6 +73,7 @@ Specifications
   - Anodized matte finish
   - Color: RAL 7024 (Graphite Gray)
   - No special masking but instructions for not anodizing threaded holes on drawings
+  - Threaded holes for base plate and switch plate all M2.5x0.45 with anotation included in Drawings
 
 - | **Dimensions**
   | 359mm wide, 142mm deep, 31.9 mm high on back, 22mm high on front
