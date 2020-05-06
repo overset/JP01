@@ -69,7 +69,7 @@ Specifications
   | No ugly seam to look at. Minimal fillet and small radii for a specific aesthetic. Simpler design to limit the number of individual parts to get CNC milled.
 
   - 6061-T6 Aluminum
-  - Dead blasted with finer #150 grit
+  - Bead blasted with finer #150 grit
   - Anodized matte finish
   - Color: RAL 7024 (Graphite Gray)
   - No special masking but instructions for not anodizing threaded holes on drawings
