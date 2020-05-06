@@ -78,8 +78,8 @@ Specifications
 - | **Dimensions**
   | 359mm wide, 142mm deep, 31.9 mm high on back, 22mm high on front
   | This is Very similar to stock Arisu case
-- **Weight** ~4lb
-- **Typing angle** 5 degrees
+- | **Weight** ~4lb
+- | **Typing angle** 5 degrees
 - | **Flat baseplate**
   | Original design is for a flat base plate that is slightly recessed into the case. I have incorporated my logo into the design with a 0.5mm depth and a 0.25mm fillet on the top edge
 
@@ -90,13 +90,13 @@ Specifications
   - No special masking but instructions for not anodizing threaded holes on drawings
   - 4 through bolts to mate plate to case with for M2.5x0.45 countersunk screws
 
-- **Switch plate**
+- | **Switch plate**
 
   - Top mount
   - Allows for 1.6mm to <4mm plate material
   - 8 through bolts to mount the plate to the top of the case, M2.5x0.45 head cap screws
 
-- **Deck height**
+- | **Deck height**
 
   - 7mm (height from top of switch plate to top of the case)
   - Allows for use of 0.5mm silicone gasket that will make deck-height the ideal 7.5mm to submerge standard keycaps and create a nice aesthetic
