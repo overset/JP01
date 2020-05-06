@@ -128,6 +128,8 @@ Inventory - What You Will Need To Order
 - CNC milled bottom plate, step files and drawings
 - laser-cut switch plate, DXF files
 - machine cut gasket kit for sound dampening (optional)
+- 4x M2.5x0.45 10mm stainless steel countersunk screws (I prefer hex)
+- 8x M2.5x0.45 6mm stainless steel head cap screws (I prefer hex)
 
 I'm ready, I know the risks, How did I buy this right now?
 ----------------------------------------------------------
