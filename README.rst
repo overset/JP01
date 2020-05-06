@@ -49,7 +49,7 @@ What I'm looking for in a keyboard and why I think the Arisu layout is a worthwh
 - Number row is a "must"
 - Arrow keys are a "must". No special layers. No HJKL bindings. Just simple, yet present, arrow keys.
 - No function rows, I stopped using them long ago
-- Less control/super/alt modifiers - I only need 4 within reach
+- Less control/super/alt modifiers
 
 Why OnShape and not Solidworks, Fusion360, etc?
 
