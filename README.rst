@@ -51,7 +51,7 @@ What I'm looking for in a keyboard and why I think the Arisu layout is a worthwh
 - No function rows, I stopped using them long ago
 - Less control/super/alt modifiers
 
-Why OnShape and not Solidworks, Fusion360, etc?
+Why OnShape and not Solidworks, Fusion360, etc.?
 
 - It's completely free
 - It's parametric CAD
