@@ -59,7 +59,6 @@ Main case parts from first prototype and test assembly:
     </table>
 
 
-
 Goals
 -----
 
@@ -82,8 +81,7 @@ TL;DR
 **How do I get this now?**
 
 - First understand the `Risks`_
-- Then check out ``_
-
+- Then check out `Tutorial on Ordering Parts`_
 
 
 But Why?
@@ -202,7 +200,7 @@ Assets and Materials Needed
 
 
 Tutorial on Ordering Parts
-----------------------
+--------------------------
 
 This is a rough outline of specific vendors I used for the first prototype and should **not** be treated as an explicit step by step guide. There is great monetary risk with this project and I am not liable for anything you do with this information - see `Risks`_. I have no affiliation with any of the vendors mentioned here and the only bias I have is that I'm pleased with what I've received so far.
 
