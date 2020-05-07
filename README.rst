@@ -15,9 +15,22 @@ This repository all assets needed to manufacture a custom high-quality CNC mille
     </table>
     <table>
     <tr>
-    <td><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/cad_case_ortho.png"></td>
-    <td><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/cad_switch_plate_ortho.png"></td>
-    <td><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/cad_base_plate_ortho.png"></td>
+    <td width="33%"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/cad_case_ortho.png"></td>
+    <td width="33%"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/cad_switch_plate_ortho.png"></td>
+    <td width="33%"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/cad_base_plate_ortho.png"></td>
+    </tr>
+    </table>
+
+Picture of parts from manufactures:
+
+.. raw:: html
+
+    <table>
+    <tr>
+    <td width="33%"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/parts_case_top.jpeg">
+    <img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/parts_case_bottom.jpeg"></td>
+    <td width="33%"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/parts_switch_plates.jpeg"></td>
+    <td width="33%"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/parts_base_plate.jpeg"></td>
     </tr>
     </table>
 
