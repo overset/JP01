@@ -27,8 +27,8 @@ Test assembly with switches and GMK keycaps:
 
     <table>
     <tr>
-    <td width="50%">Brass Switch Plate, GMK Eclipse keycaps<img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/fitment_assembled_brass.jpeg"></td>
-    <td width="50%">Copper Switch Plate, GMK Oblivion V2 Monochrome keycaps<img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/fitment_assembled_copper.jpeg"></td>
+    <td width="50%">Brass Switch Plate, GMK Eclipse<img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/fitment_assembled_brass.jpeg"></td>
+    <td width="50%">Copper Switch Plate, GMK Oblivion V2 Monochrome<img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/fitment_assembled_copper.jpeg"></td>
     </tr>
     </table>
     <table>
@@ -58,10 +58,10 @@ Main case parts from first prototype and test assembly:
     </table>
     <table>
     <tr>
-    <td width="25%">6061-T6 Aluminum Switch Plate<img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/test_assembled_aluminum.jpeg"></td>
-    <td width="25%">260 Brass Switch Plate<img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/test_assembled_brass.jpeg"></td>
-    <td width="25%">110 Copper Switch Plate<img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/test_assembled_copper.jpeg"></td>
-    <td width="25%">g5 Titanium Switch Plate<img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/test_assembled_titanium.jpeg"></td>
+    <td width="25%">6061-T6 Aluminum<img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/test_assembled_aluminum.jpeg"></td>
+    <td width="25%">260 Brass<img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/test_assembled_brass.jpeg"></td>
+    <td width="25%">110 Copper<img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/test_assembled_copper.jpeg"></td>
+    <td width="25%">g5 Titanium<img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/test_assembled_titanium.jpeg"></td>
     </tr>
     </table>
 
