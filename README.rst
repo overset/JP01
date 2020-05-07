@@ -7,11 +7,18 @@ JP01 - Arisu Custom CNC Aluminum Unibody Keyboard Case
     <table>
     <tr>
     <td><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/cad_assembled_ortho.png"></td>
+    <td><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/cad_assembled_ortho_hidden.png"></td>
+    <td><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/cad_exploded_ortho.png"></td>
+    </tr>
+    </table>
+    <table>
+    <tr>
+    <td><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/cad_case_ortho.png"></td>
+    <td><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/cad_switch_plate_ortho.png"></td>
+    <td><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/cad_base_plate_ortho.png"></td>
     </tr>
     </table>
 
-
-``[TODO: add hero pictures]``
 
 This repository all assets needed to manufacture a custom high-quality CNC milled unibody keyboard case for the open source `Arisu PCB`_. I'm very pleased how the first prototypes came out and I'm documenting the entire process here.
 
