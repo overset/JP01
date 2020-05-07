@@ -31,6 +31,13 @@ Test assembly with switches and GMK keycaps:
     <td width="50%">Copper Switch Plate, GMK Oblivion V2 Monochrome keycaps<img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/fitment_assembled_copper.jpeg"></td>
     </tr>
     </table>
+    <table>
+    <tr>
+    <td width="33%"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/fitment_assembled_front.jpeg"></td>
+    <td width="33%"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/fitment_assembled_bottom.jpeg"></td>
+    <td width="33%"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/fitment_assembled_right.jpeg"></td>
+    </tr>
+    </table>
 
 Main case parts from first prototype and test assembly:
 
