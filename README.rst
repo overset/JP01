@@ -138,8 +138,8 @@ Specifications
 - | **Flat baseplate**
   | Original design is for a flat base plate that is slightly recessed into the case. I have incorporated my logo into the design with a 0.5mm depth and a 0.25mm fillet on the top edge
 
-  - 6061-T6 Aluminum**
-  - Smoothed surface**
+  - 6061-T6 Aluminum
+  - Smoothed surface
   - Anodized glossy finish
   - Color: RAL 7001 (Silver Gray)
   - No special masking but instructions for not anodizing threaded holes on drawings
