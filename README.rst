@@ -2,7 +2,14 @@
 JP01 - Arisu Custom CNC Aluminum Unibody Keyboard Case
 ======================================================
 
-.. image:: https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/cases.jpg
+.. raw:: html
+
+    <table>
+    <tr>
+    <td><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/cad_assembled_ortho.png"></td>
+    </tr>
+    </table>
+
 
 ``[TODO: add hero pictures]``
 
@@ -22,11 +29,18 @@ Mission
 TL;DR
 -----
 
-- | **Cut straight to chase and tell me where the CAD models are!**
-  | The models were built using the completely free OnShape CAD platform using the Public plan and available here:
-  | `JP01 - CNC Unibody Case - Arisu Keyboard V1.1`_
-  | ``TODO: Add assets for manufacturing in releases``
-- | **I want to buy this right now, how do I?**
+**If you want to dive right into the models using OnShape** you can edit them here:
+`JP01 - CNC Unibody Case - Arisu Keyboard V1.1`_
+The models were built using the completely free OnShape CAD platform using the Public plan
+
+**Here are the assets for other CAD platforms**
+
+case
+base plate
+switch plate
+gaskets
+
+**I want to buy this right now, how do I?**
 
   - First understand the `Risks`_
   - Then jump to `I'm ready, I know the risks, How did I buy this right now?`_
@@ -151,10 +165,10 @@ I want to make changes to the case!
 -----------------------------------
 
 ``TODO``
-- HOWTO navigate parts, assembly and drawings
-- Want to change the typing angle?
-- How to extract specific assets for manufacturers
-- Example export of assets
+  - HOWTO navigate parts, assembly and drawings
+  - Want to change the typing angle?
+  - How to extract specific assets for manufacturers
+  - Example export of assets
 
 FAQ
 ---
