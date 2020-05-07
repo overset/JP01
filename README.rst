@@ -177,10 +177,26 @@ Assets and Materials Needed
 - `Arisu PCB v1.1`_ for gerber files
 
   - I built custom BOM (Bag Of Materials) and CPL (positioning) files to be used with JLCPCB: https://gist.github.com/overset/bfde44e95b8ca72d8ffed75c40979b75
-- CNC milled unibody Case, step files and drawings
-- CNC milled bottom plate, step files and drawings
-- laser-cut switch plate, DXF files
+- CNC milled unibody Case
+
+  - `case.step </V1.1/case.step>`_ STEP file for the case
+  - `case-drawing.pdf </V1.1/case-drawing.pdf>`_ drawings for the case
+- CNC milled base plate
+
+  - `base.step </V1.1/base.step>`_ STEP file for the base plate
+  - `base-plate_drawing.pdf </V1.1/base-plate_drawing.pdf>`_ drawings for the base plate
+- laser-cut switch plate
+
+  - `switch-plate.dxf </V1.1/switch-plate.dxf>`_ DXF file for use with laser-cutting services
 - machine cut gasket kit for sound dampening (optional)
+
+  - `gasket_base-plate.dxf </V1.1/gasket_base-plate.dxf>`_ gasket that covers the entire inner surface of the base plate and fits in the case flange to help with sound dampening.
+  - `gasket_case-foam-dampener.dxf </V1.1/gasket_case-foam-dampener.dxf>`_ this is for the case cavity to fill with sound dampener such as EVA foam and is placed in the base between the base plate and PCB
+  - `gasket_pcb.dxf </V1.1/gasket_pcb.dxf>`_ for cutting out a layer of dampener between the switch plate and PCB.
+  - `gasket_switch-plate.dxf </V1.1/gasket_switch-plate.dxf>`_ for a thin layer of silicone between the switch plate top of the case. Do not go over 0.5mm thickness.
+- (Optional) If you would rather get a laser-cut base-plate and not go with CNC for cheaper
+
+  - `base-plate_laser-cut.dxf </V1.1/base-plate_laser-cut.dxf>`_
 - 4x M2.5x0.45 10mm stainless steel countersunk machine screws (I prefer hex)
 - 8x M2.5x0.45 6mm stainless steel head cap machine screws (I prefer hex)
 
