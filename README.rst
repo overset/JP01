@@ -21,16 +21,40 @@ This repository all assets needed to manufacture a custom high-quality CNC mille
     </tr>
     </table>
 
-Picture of parts from manufactures:
+Test assembly with switches and GMK keycaps:
 
 .. raw:: html
 
     <table>
     <tr>
-    <td width="33%"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/parts_case_top.jpeg">
-    <img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/parts_case_bottom.jpeg"></td>
+    <td width="50%">Brass Switch Plate, GMK Eclipse keycaps<img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/fitment_assembled_brass.jpeg"></td>
+    <td width="50%">Copper Switch Plate, GMK Oblivion V2 Monochrome keycaps<img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/fitment_assembled_copper.jpeg"></td>
+    </tr>
+    </table>
+
+Main case parts from first prototype and test assembly:
+
+.. raw:: html
+
+    <table>
+    <tr>
+    <td width="33%"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/parts_case_top.jpeg"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/parts_case_bottom.jpeg"></td>
     <td width="33%"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/parts_switch_plates.jpeg"></td>
     <td width="33%"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/parts_base_plate.jpeg"></td>
+    </tr>
+    </table>
+    <table>
+    <tr>
+    <td width="50%"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/test_assembly_bottom.jpeg"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/test_assembly_pcb.jpeg"></td>
+    </tr>
+    </table>
+    <table>
+    <tr>
+    <td width="25%">1.6mm 6061-T6 Aluminum Switch Plate<img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/test_assembled_aluminum.jpeg"></td>
+    <td width="25%">1.6mm 260 Brass Switch Plate<img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/test_assembled_brass.jpeg"></td>
+    <td width="25%">1.6mm 110 Copper Switch Plate<img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/test_assembled_copper.jpeg"></td>
+    <td width="25%">1.6mm g5 Titanium Switch Plate<img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/test_assembled_titanium.jpeg"></td>
     </tr>
     </table>
 
