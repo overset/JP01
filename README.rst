@@ -1,6 +1,6 @@
-==================================
-JP01 - Arisu Unibody Keyboard Case
-==================================
+======================================================
+JP01 - Arisu Custom CNC Aluminum Unibody Keyboard Case
+======================================================
 
 .. image:: https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/cases.jpg
 
@@ -169,7 +169,9 @@ FAQ
   | None of the recent GroupBuys for custom Alice-clone cases have really hit the mark for me aesthetically. I have no doubt the build quality on some, if not all of them, far exceeds this - but the recent surge of interest has made access to join GBs prohibitive. The more recent Prime_E and Rukia come to mind and look amazing. When getting into that price point I'm looking for very specific things such as: a number row (which the Prime_E doesn't have but the upcoming PrimeKB Meridian will have), Arrow keys are a must (not on the Alice or Rukia and no number of custom layers or HJKL bindings are going to save that for me)
 - | **RGB?**
   | No, No and No
-- | **But it's not symmetrical, why waste your money?**
+- | **ISO?**
+  | No
+- | **But it's not symmetrical like the Alice, why waste your money?**
   | This actually does not bother me at all. Having spend so many years on 75%, TKL and Fullsize keyboards I've always had the majority of keys on the right side. I just expect it and if it's too symmetrical it doesn't feel right to me. Even the Alice is not perfectly symmetrical
 - | **When is the GB?**
   | Right now, I do not intend on running a GB myself. I'm licensing the work here in a way that does not prohibit it. If you want to run a group by or one on derived work and use OnShape do consider their ToS. Also, add a reference for this and the amazing work from FateNozomi for the original Arisu keyboard. I'm happy to consult as my time allows on derivative work - it's at the heart of opensource after all
@@ -199,6 +201,7 @@ TODO
 - Experiment with adding more material to the baseplate to bring it parallel with the PCB and minimize the volume of open air inside the case. The intent would be to benefit acoustics and add more weight to the keyboard. I'm very satisfied with the gasket dampener kit as part of the original design for helping with the acoustics
 - Test more base plate materials such as various brass, copper, polished stainless, etc. I've started a new OnShape branch for this at `JP01 - CNC Unibody Case - Arisu Keyboard brass baseplate`_
 - Add another switch plate screw near the bottom right corner to prevent extra flex when pressing on the right arrow key. This was not even noticeable with the 1.6mm brass, copper, titanium or 6061-T6 aluminum plates I was testing with but would make it closer to perfect
+- This design should work with Polycarbonate and getting a prototype milled is on the list
 
 
 Credits
