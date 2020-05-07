@@ -311,6 +311,7 @@ TODO
   - Reduce reliance on microtooling such as larger fillets
   - Larger radii of inner cutouts in the case - they're likely less than the standard 1/4 diameter of main cutting tool
   - More consistent fillets and radii to minimize different bits or bit changes
+  - Add fillet to bottom of recessed logo on base plate - this cannot be a sharp corner
 
 - Add more through bolts to the base plate for an even more secure design. The 4 bolt pattern is still more than enough
 - Consider raising the deck height of the top of the case from 7mm to 7.5 to account for proper clearance of standard keycaps. The 7mm design was originally built to incorporate a 0.5mm silicone gasket to help dampen sound, but this might not be desirable for some.
