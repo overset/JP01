@@ -2,6 +2,8 @@
 JP01 - Arisu Custom CNC Aluminum Unibody Keyboard Case
 ======================================================
 
+This repository all assets needed to manufacture a custom high-quality CNC milled unibody keyboard case for the open source `Arisu PCB`_. I'm very pleased how the first prototypes came out and I'm documenting the entire process here.
+
 .. raw:: html
 
     <table>
@@ -20,7 +22,6 @@ JP01 - Arisu Custom CNC Aluminum Unibody Keyboard Case
     </table>
 
 
-This repository all assets needed to manufacture a custom high-quality CNC milled unibody keyboard case for the open source `Arisu PCB`_. I'm very pleased how the first prototypes came out and I'm documenting the entire process here.
 
 Mission
 -------
