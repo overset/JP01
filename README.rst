@@ -175,6 +175,7 @@ Assets and Materials Needed
 ---------------------------
 
 - `Arisu PCB v1.1`_ for gerber files
+
   - I built custom BOM (Bag Of Materials) and CPL (positioning) files to be used with JLCPCB: https://gist.github.com/overset/bfde44e95b8ca72d8ffed75c40979b75
 - CNC milled unibody Case, step files and drawings
 - CNC milled bottom plate, step files and drawings
@@ -206,10 +207,12 @@ The most substantial part of the project was the CNC milling order for the case 
 - The "case" model did not automatically pass their "Manufacturability Analysis" calling for review on "Thin walls" check but did this was not flagged anywhere else in the process
 - I opted for 6061-T6 aluminum on both parts
 - For the "case" part
+
   - Surface finish: "Bead Blasted + Anodized type II (Matte)" and added a note in the case drawings to use the finer #150 grit beads for a nicer finish
   - Custom color: RAL 7024 Graphite Grey
   - "Yes" for "Contains threads"
 - For the "base plate" part
+
   - Surface finish "Smoothed + Anodized type II (Glossy)"
   - Custom color RAL 7001 Silver Grey (In retrospect, I might have liked the bead blasted matte finish better)
 - I uploaded the exhaustive drawings for each part
