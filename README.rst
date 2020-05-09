@@ -32,15 +32,9 @@ Test assembly with switches and GMK keycaps:
 
     <table>
     <tr>
-    <td width="50%">Brass Switch Plate, GMK Eclipse<img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/fitment_assembled_brass.jpeg"></td>
-    <td width="50%">Copper Switch Plate, GMK Oblivion V2 Monochrome<img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/fitment_assembled_copper.jpeg"></td>
-    </tr>
-    </table>
-    <table>
-    <tr>
-    <td width="33%"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/fitment_assembled_front.jpeg"></td>
-    <td width="33%"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/fitment_assembled_bottom.jpeg"></td>
-    <td width="33%"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/fitment_assembled_right.jpeg"></td>
+    <td><a href="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/b1.jpeg"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/b1-sm.jpeg"></a></td>
+    <td><a href="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/b5.jpeg"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/b5-sm.jpeg"></a></td>
+    <td><a href="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/b3.jpeg"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/b3-sm.jpeg"></a></td>
     </tr>
     </table>
 
