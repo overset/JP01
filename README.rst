@@ -40,9 +40,9 @@ More images from the first complete build:
 
     <table>
     <tr>
-    <td><a href="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/build1.jpeg"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/build-sm.jpeg"></a></td>
-    <td><a href="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/build2.jpeg"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/build-sm.jpeg"></a></td>
-    <td><a href="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/build3.jpeg"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/build-sm.jpeg"></a></td>
+    <td><a href="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/build1.jpeg"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/build1-sm.jpeg"></a></td>
+    <td><a href="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/build2.jpeg"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/build2-sm.jpeg"></a></td>
+    <td><a href="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/build3.jpeg"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/build3-sm.jpeg"></a></td>
     </tr>
     </table>
     <table>
