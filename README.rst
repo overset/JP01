@@ -9,6 +9,12 @@ https://youtu.be/mfLEsenbGh8 ⬅ **Typing test for the first build!**
 
 This repository all assets needed to manufacture a custom high-quality CNC milled unibody keyboard case for the open source `Arisu PCB`_. I'm very pleased how the first prototypes came out and I'm documenting the entire process here.
 
+
+<a href="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/build5.jpeg"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/build5-lg.jpeg"></a>
+
+
+CAD screenshots:
+
 .. raw:: html
 
     <table>
@@ -26,7 +32,33 @@ This repository all assets needed to manufacture a custom high-quality CNC mille
     </tr>
     </table>
 
-Test assembly with switches and GMK keycaps:
+More images from the first complete build:
+
+.. raw:: html
+
+    <table>
+    <tr>
+    <td><a href="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/build1.jpeg"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/build-sm.jpeg"></a></td>
+    <td><a href="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/build2.jpeg"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/build-sm.jpeg"></a></td>
+    <td><a href="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/build3.jpeg"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/build-sm.jpeg"></a></td>
+    </tr>
+    </table>
+    <table>
+    <tr>
+    <td><a href="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/build6.jpeg"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/build6-sm.jpeg"></a></td>
+    <td><a href="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/build7.jpeg"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/build7-sm.jpeg"></a></td>
+    <td><a href="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/build8.jpeg"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/build8-sm.jpeg"></a></td>
+    </tr>
+    </table>
+    <table>
+    <tr>
+    <td><a href="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/bottom.jpeg"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/bottom-sm.jpeg"></a></td>
+    <td><a href="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/build5.jpeg"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/build5-sm.jpeg"></a></td>
+    <td><a href="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/b-angle.jpeg"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/b_angle-sm.jpeg"></a></td>
+    </tr>
+    </table>
+
+Test assembly and parts:
 
 .. raw:: html
 
@@ -37,30 +69,11 @@ Test assembly with switches and GMK keycaps:
     <td><a href="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/b3.jpeg"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/b3-sm.jpeg"></a></td>
     </tr>
     </table>
-
-Main case parts from first prototype and test assembly:
-
-.. raw:: html
-
     <table>
     <tr>
-    <td width="33%"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/parts_case_top.jpeg"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/parts_case_bottom.jpeg"></td>
-    <td width="33%"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/parts_switch_plates.jpeg"></td>
-    <td width="33%"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/parts_base_plate.jpeg"></td>
-    </tr>
-    </table>
-    <table>
-    <tr>
-    <td width="50%"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/test_assembly_bottom.jpeg"></td>
-    <td width="50%"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/test_assembly_pcb.jpeg"></td>
-    </tr>
-    </table>
-    <table>
-    <tr>
-    <td width="25%">6061-T6 Aluminum<img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/test_assembled_aluminum.jpeg"></td>
-    <td width="25%">260 Brass<img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/test_assembled_brass.jpeg"></td>
-    <td width="25%">110 Copper<img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/test_assembled_copper.jpeg"></td>
-    <td width="25%">g5 Titanium<img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/test_assembled_titanium.jpeg"></td>
+    <td><a href="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/plates.jpeg"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/plates-sm.jpeg"></a></td>
+    <td><a href="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/g_pcb_base.jpeg"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/g_pcb_base-sm.jpeg"></a></td>
+    <td><a href="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/g_case_plate.jpeg"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/g_case_plate-sm.jpeg"></a></td>
     </tr>
     </table>
 
