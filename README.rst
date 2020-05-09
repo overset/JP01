@@ -56,7 +56,7 @@ More images from the first complete build:
     <tr>
     <td><a href="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/bottom.jpeg"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/bottom-sm.jpeg"></a></td>
     <td><a href="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/build5.jpeg"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/build5-sm.jpeg"></a></td>
-    <td><a href="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/b-angle.jpeg"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/b_angle-sm.jpeg"></a></td>
+    <td><a href="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/b_angle.jpeg"><img src="https://raw.githubusercontent.com/overset/JP01/master/V1.1/images/b_angle-sm.jpeg"></a></td>
     </tr>
     </table>
 
