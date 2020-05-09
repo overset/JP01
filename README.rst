@@ -173,15 +173,17 @@ Specifications
 Risks
 -----
 
-- Ordering completely custom CNC milled parts in low quantities is expensive but not as much as you might think comparing to modern group buys
-- You will be managing orders from multiple manufacturing vendors so choose your vendor wisely
-- I provide no warranty or guarantee that you will received exactly what was designed here from whichever vendors you choose. I will not be liable for any claims or damages.
-- If you modify the CAD designs, you will need to know what you're doing.
-- The quality of the final product is as much the manufacturer chosen as it is the original design. Choose wisely
+- Ordering completely custom CNC milled parts in low quantities is expensive
+- You will be managing orders from multiple manufactures and vendors so choose wisely
+- I provide no warranties or guarantees. Use this information solely at your own risk. I am not liable for any claims, damages, etc.
+- If you modify the CAD designs, you will need to know what you're doing and do so at your own risk. These models are provided as-is
+- Even if you use these designs and a bad manufacturer, there is a good change you will receive very expensive paper weights
 
 
 Assets and Materials Needed
 ---------------------------
+
+**Use these files at your own risk***
 
 - `Arisu PCB v1.1`_ for gerber files
 
@@ -225,7 +227,7 @@ The first item to get manufactured was the `Arisu PCB v1.1`_. I used the release
 - You can only get the default green solder mask if you opt in for SMT assembly
 - If you use SMT assembly, be sure to order it for the bottom
 
-The most substantial part of the project was the CNC milling order for the case parts - specifically the "case" and "base plate". I opted to use 3dhubs. The ordering process was easy and here are a few notes on the process:
+The most substantial part of the project was the CNC milling order for the case parts - specifically the "case" and "base plate". I opted to use 3DHubs. The ordering process was easy and here are a few notes on the process:
 
 - They accept the .step files for both the "case" and "base plate" through their online quoting tool
 - I created a single order for 2 parts: "case" and "base plate"
@@ -241,7 +243,7 @@ The most substantial part of the project was the CNC milling order for the case 
   - Surface finish "Smoothed + Anodized type II (Glossy)"
   - Custom color RAL 7001 Silver Grey (In retrospect, I might have liked the bead blasted matte finish better)
 - I uploaded the exhaustive drawings for each part
-- It took 2 days for an affiliate in the 3dhubs network to pickup the work
+- It took 2 days for an affiliate in the 3DHubs network to pickup the work
 - It took 15 days from order being placed to receiving parts at my door even while opting for longest 20day lead time
 
 The switch plates I opted to use a laser-cutting service SendCutSend. They specialize in metals and do not offer finishing services beyond brushing as of this writing.
@@ -278,7 +280,7 @@ I want to make changes to the case!
   - HOWTO navigate parts, assembly and drawings
   - Want to change the typing angle?
   - How to extract specific assets for manufacturers
-  - Example export of assets
+
 
 FAQ
 ---
@@ -287,10 +289,8 @@ FAQ
   | I really like the Arisu layout and there is no easily accessible high quality case available for it that meets the aesthetic I was looking for or is something that would be attainable without waiting months if not years. Also: the challenge of building a custom case from scratch
 - | **Why not build another Alice clone case or buy one of r/mm?**
   | None of the recent group buys for custom Alice-clone cases have really hit the mark for me aesthetically. I have no doubt the build quality on some, if not all of them, far exceeds this - but the recent surge of interest has made access to join GBs prohibitive. The more recent Prime_E and Rukia come to mind and look amazing. When getting into that price point I'm looking for very specific things such as: a number row (which the Prime_E doesn't have but the upcoming PrimeKB Meridian will have), Arrow keys are a must (not on the Alice or Rukia and no number of custom layers or HJKL bindings are going to save that for me)
-- | **RGB?**
-  | No, No and No
-- | **ISO?**
-  | No
+- | **RGB? ISO? Rotary Encoders? Extra B?**
+  | No, No, No and No
 - | **But it's not symmetrical like the Alice, why waste your money?**
   | This actually does not bother me at all. Having spend so many years on 75%, TKL and Fullsize keyboards I've always had the majority of keys on the right side. I just expect it and if it's too symmetrical it doesn't feel right to me. Even the Alice is not perfectly symmetrical
 - | **When is the GB?**
