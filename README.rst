@@ -34,7 +34,7 @@ CAD screenshots:
     </tr>
     </table>
 
-More images from the first complete build:
+More images from the first complete build (Not renders but an actual build `Show Me The Build!`_):
 
 .. raw:: html
 
@@ -271,6 +271,19 @@ Show Me The Build!
 First build complete and timelapse video here: https://youtu.be/O6BLock8iVU
 
 Typing test for the first build here: https://youtu.be/mfLEsenbGh8
+
+Some details on the build:
+
+- Case is a Unibody CNC 6061-T6 Aluminum top, sandblasted with fine grit, anodized Graphite Grey
+- Bottom case plate is CNC 6061-T6 Aluminum smoothed and anodized Silver Grey
+- Switch plate is 1.6mm 260 Brass
+- 0.5mm silicone machine-cut switch plate to case gasket
+- 2mm EVA foam machine-cut dampener between PCB and switch plate
+- 2mm EVA foam machine-cut for case cavity between PCB and base plate
+- 1.5mm silicone base-plate gasket
+- Switches are Silent Alpacas + TX Film + 205g0 lube
+- 4x 2U Zeal screw-in Stabilizers + 205g0
+- GMK Oblivion V2 Monochrome
 
 
 I want to make changes to the case!
