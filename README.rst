@@ -2,6 +2,11 @@
 JP01 - Arisu Custom CNC Aluminum Unibody Keyboard Case
 ======================================================
 
+https://youtu.be/O6BLock8iVU ** ⬅ First build complete and timelapse video!**
+
+https://youtu.be/mfLEsenbGh8 ** ⬅ Typing test for the first build!**
+
+
 This repository all assets needed to manufacture a custom high-quality CNC milled unibody keyboard case for the open source `Arisu PCB`_. I'm very pleased how the first prototypes came out and I'm documenting the entire process here.
 
 .. raw:: html
@@ -105,16 +110,6 @@ What I'm looking for in a keyboard and why I think the Arisu layout is a worthwh
 - Arrow keys are a "must". No special layers. No HJKL bindings. Just simple, yet present, arrow keys.
 - No function rows, I stopped using them long ago
 - Less control/super/alt modifiers
-
-Why OnShape and not Solidworks, Fusion360, etc.?
-
-- It's completely free
-- It's parametric CAD
-- It's feature rich and easy to use with a short learning curve
-- I have not found any missing functionality I thought I would need in the modeling of this case
-- The Drawings interface is very powerful
-- You can fork my design and change whatever you want
-- Did I mention it's completely free?
 
 
 Specifications
@@ -262,7 +257,10 @@ The gaskets were ordered from Ponoko which can cut EVA foam and Silicone of vari
 Show Me The Build!
 ------------------
 
-``TODO: I'm still waiting on parts to complete the first full build``
+First build complete and timelapse video here: https://youtu.be/O6BLock8iVU
+
+Typing test for the first build here: https://youtu.be/mfLEsenbGh8
+
 
 I want to make changes to the case!
 -----------------------------------
@@ -278,10 +276,6 @@ FAQ
 
 - | **Again, Why?**
   | I really like the Arisu layout and there is no easily accessible high quality case available for it that meets the aesthetic I was looking for or is something that would be attainable without waiting months if not years. Also: the challenge of building a custom case from scratch
-- | **Again, Why the Arisu?**
-  | I think the layout is perfect. Having invested a great number of years on fixed-split keyboards such as the classic MS4K, the Arisu layout speaks to me
-- | **Is it true designing a PCB is harder than the case?**
-  | I think this is true. I applaud those who pour countless and thankless hours over PCB designs. It's a shame most of their work is hidden away inside the case and quickly taken for granted. Even with a clear case it's hard to admire all of their hard work. That and the massive effort behind QMK over the years is awe inspiring and many take it for granted (myself included)
 - | **Why not build another Alice clone case or buy one of r/mm?**
   | None of the recent group buys for custom Alice-clone cases have really hit the mark for me aesthetically. I have no doubt the build quality on some, if not all of them, far exceeds this - but the recent surge of interest has made access to join GBs prohibitive. The more recent Prime_E and Rukia come to mind and look amazing. When getting into that price point I'm looking for very specific things such as: a number row (which the Prime_E doesn't have but the upcoming PrimeKB Meridian will have), Arrow keys are a must (not on the Alice or Rukia and no number of custom layers or HJKL bindings are going to save that for me)
 - | **RGB?**
@@ -300,6 +294,15 @@ FAQ
   | Low volume CNC work is cost prohibitive, but not astronomical. This varies greatly depending on manufacturers selected, finishes chosen, etc.
 - | **Where is the wrist rest?**
   | See `TODO`_
+- | **Why OnShape and not Solidworks, Fusion360?**
+
+  - It's completely free
+  - It's parametric CAD
+  - It's feature rich and easy to use with a short learning curve
+  - I have not found any missing functionality I thought I would need in the modeling of this case
+  - The Drawings interface is very powerful
+  - You can fork my design and change whatever you want
+  - Did I mention it's completely free?
 
 
 TODO
@@ -321,6 +324,8 @@ TODO
 - Add another switch plate screw near the bottom right corner to prevent extra flex when pressing on the right arrow key. This was not even noticeable with the 1.6mm brass, copper, titanium or 6061-T6 aluminum plates I was testing with but would make it closer to perfect
 - This design should work with Polycarbonate and getting a prototype milled is on the list
 - Explore finishing options for switch plates (i.e. PVD)
+- Clean up OnShape project, unused Sketches, add variables for typing angle with constraints, make easier to export parts, optimize drawings
+- Bumpons
 
 
 Credits
